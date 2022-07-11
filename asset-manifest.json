@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cooking-app/static/css/main.bf9a2ade.chunk.css",
+    "main.js": "/cooking-app/static/js/main.1db4bfad.chunk.js",
+    "main.js.map": "/cooking-app/static/js/main.1db4bfad.chunk.js.map",
+    "runtime~main.js": "/cooking-app/static/js/runtime~main.205ca215.js",
+    "runtime~main.js.map": "/cooking-app/static/js/runtime~main.205ca215.js.map",
+    "static/js/2.1b2cb5d4.chunk.js": "/cooking-app/static/js/2.1b2cb5d4.chunk.js",
+    "static/js/2.1b2cb5d4.chunk.js.map": "/cooking-app/static/js/2.1b2cb5d4.chunk.js.map",
+    "index.html": "/cooking-app/index.html",
+    "precache-manifest.b3e7fbbe5b4a813f49756354facad5eb.js": "/cooking-app/precache-manifest.b3e7fbbe5b4a813f49756354facad5eb.js",
+    "service-worker.js": "/cooking-app/service-worker.js",
+    "static/css/main.bf9a2ade.chunk.css.map": "/cooking-app/static/css/main.bf9a2ade.chunk.css.map",
+    "static/media/app.css": "/cooking-app/static/media/GothamRounded-Light.f2d6aa9a.woff"
+  }
+}
